@@ -1,0 +1,4 @@
+所使用数据库 ： oracle
+
+配置数据库文件 ： StudentManagerWeb/src/db.properties
+
